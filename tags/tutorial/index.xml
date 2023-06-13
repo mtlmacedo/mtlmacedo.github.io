@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Mtlmacedo.com</title>
-        <link>https://mtlmacedo.github.io/posts/</link>
-        <description>All Posts | Mtlmacedo.com</description>
+        <title>tutorial - Tag - Mtlmacedo.com</title>
+        <link>https://mtlmacedo.github.io/tags/tutorial/</link>
+        <description>tutorial - Tag - Mtlmacedo.com</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
-            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate><atom:link href="https://mtlmacedo.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate><atom:link href="https://mtlmacedo.github.io/tags/tutorial/" rel="self" type="application/rss+xml" /><item>
     <title># Getting Started with Go Programming: A Beginner&#39;s Guide</title>
     <link>https://mtlmacedo.github.io/posts/gobasics/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
@@ -12,14 +12,6 @@
     <guid>https://mtlmacedo.github.io/posts/gobasics/</guid>
     <description><![CDATA[Introduction Welcome to the exciting world of Go programming! In this blog post, we will explore why Go has become increasingly popular and discuss its unique features and benefits. Whether you&rsquo;re a beginner looking to dive into programming or an experienced developer curious about Go, this guide will provide you with a solid foundation to start your Go journey.
 Why Go is gaining popularity Go has been making waves in the programming community due to its remarkable features and advantages.]]></description>
-</item>
-<item>
-    <title>Hello, world!</title>
-    <link>https://mtlmacedo.github.io/posts/first_post/</link>
-    <pubDate>Tue, 13 Jun 2023 10:14:34 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/posts/first_post/</guid>
-    <description><![CDATA[Hello, world !]]></description>
 </item>
 </channel>
 </rss>

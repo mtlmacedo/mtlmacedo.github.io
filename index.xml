@@ -4,9 +4,18 @@
         <link>https://mtlmacedo.github.io/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
-            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 10:14:34 -0300</lastBuildDate>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate>
             <atom:link href="https://mtlmacedo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title># Getting Started with Go Programming: A Beginner&#39;s Guide</title>
+    <link>https://mtlmacedo.github.io/posts/gobasics/</link>
+    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.github.io/posts/gobasics/</guid>
+    <description><![CDATA[Introduction Welcome to the exciting world of Go programming! In this blog post, we will explore why Go has become increasingly popular and discuss its unique features and benefits. Whether you&rsquo;re a beginner looking to dive into programming or an experienced developer curious about Go, this guide will provide you with a solid foundation to start your Go journey.
+Why Go is gaining popularity Go has been making waves in the programming community due to its remarkable features and advantages.]]></description>
+</item>
+<item>
     <title>Hello, world!</title>
     <link>https://mtlmacedo.github.io/posts/first_post/</link>
     <pubDate>Tue, 13 Jun 2023 10:14:34 -0300</pubDate>

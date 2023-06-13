@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>world - Tag - Mtlmacedo.com</title>
+        <link>https://mtlmacedo.github.io/tags/world/</link>
+        <description>world - Tag - Mtlmacedo.com</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 10:14:34 -0300</lastBuildDate><atom:link href="https://mtlmacedo.github.io/tags/world/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello, world!</title>
+    <link>https://mtlmacedo.github.io/posts/first_post/</link>
+    <pubDate>Tue, 13 Jun 2023 10:14:34 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.github.io/posts/first_post/</guid>
+    <description><![CDATA[Hello, world !]]></description>
+</item>
+</channel>
+</rss>
