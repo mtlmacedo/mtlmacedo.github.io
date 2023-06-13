@@ -2,24 +2,24 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://mtlmacedo.github.io/posts/gobasics/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/basics/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/concurrency/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/go/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/golang/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/installation/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/posts/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/setup/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/tutorial/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/varaibles/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/about/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/page/about/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/author/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/me/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/page/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/hello/</loc><lastmod>2023-06-13T10:14:34-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/posts/first_post/</loc><lastmod>2023-06-13T10:14:34-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/tags/world/</loc><lastmod>2023-06-13T10:14:34-03:00</lastmod></url><url>
-            <loc>https://mtlmacedo.github.io/categories/</loc></url></urlset>
+            <loc>https://mtlmacedo.com/posts/gobasics/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/basics/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/concurrency/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/go/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/golang/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/installation/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/posts/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/setup/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/tutorial/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/varaibles/</loc><lastmod>2023-06-13T15:03:15-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/about/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/page/about/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/author/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/me/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/page/</loc><lastmod>2023-06-13T13:19:33-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/hello/</loc><lastmod>2023-06-13T10:14:34-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/posts/first_post/</loc><lastmod>2023-06-13T10:14:34-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/tags/world/</loc><lastmod>2023-06-13T10:14:34-03:00</lastmod></url><url>
+            <loc>https://mtlmacedo.com/categories/</loc></url></urlset>

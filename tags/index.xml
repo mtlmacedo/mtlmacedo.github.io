@@ -1,87 +1,87 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Mtlmacedo.com</title>
-        <link>https://mtlmacedo.github.io/tags/</link>
+        <link>https://mtlmacedo.com/tags/</link>
         <description>Tags - Tag - Mtlmacedo.com</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
-            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate><atom:link href="https://mtlmacedo.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/tags/" rel="self" type="application/rss+xml" /><item>
     <title>basics</title>
-    <link>https://mtlmacedo.github.io/tags/basics/</link>
+    <link>https://mtlmacedo.com/tags/basics/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/basics/</guid>
+    <guid>https://mtlmacedo.com/tags/basics/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>concurrency</title>
-    <link>https://mtlmacedo.github.io/tags/concurrency/</link>
+    <link>https://mtlmacedo.com/tags/concurrency/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/concurrency/</guid>
+    <guid>https://mtlmacedo.com/tags/concurrency/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>go</title>
-    <link>https://mtlmacedo.github.io/tags/go/</link>
+    <link>https://mtlmacedo.com/tags/go/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/go/</guid>
+    <guid>https://mtlmacedo.com/tags/go/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>golang</title>
-    <link>https://mtlmacedo.github.io/tags/golang/</link>
+    <link>https://mtlmacedo.com/tags/golang/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/golang/</guid>
+    <guid>https://mtlmacedo.com/tags/golang/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>installation</title>
-    <link>https://mtlmacedo.github.io/tags/installation/</link>
+    <link>https://mtlmacedo.com/tags/installation/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/installation/</guid>
+    <guid>https://mtlmacedo.com/tags/installation/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>setup</title>
-    <link>https://mtlmacedo.github.io/tags/setup/</link>
+    <link>https://mtlmacedo.com/tags/setup/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/setup/</guid>
+    <guid>https://mtlmacedo.com/tags/setup/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>tutorial</title>
-    <link>https://mtlmacedo.github.io/tags/tutorial/</link>
+    <link>https://mtlmacedo.com/tags/tutorial/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/tutorial/</guid>
+    <guid>https://mtlmacedo.com/tags/tutorial/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>varaibles</title>
-    <link>https://mtlmacedo.github.io/tags/varaibles/</link>
+    <link>https://mtlmacedo.com/tags/varaibles/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/varaibles/</guid>
+    <guid>https://mtlmacedo.com/tags/varaibles/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>about</title>
-    <link>https://mtlmacedo.github.io/tags/about/</link>
+    <link>https://mtlmacedo.com/tags/about/</link>
     <pubDate>Tue, 13 Jun 2023 13:19:33 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/about/</guid>
+    <guid>https://mtlmacedo.com/tags/about/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>author</title>
-    <link>https://mtlmacedo.github.io/tags/author/</link>
+    <link>https://mtlmacedo.com/tags/author/</link>
     <pubDate>Tue, 13 Jun 2023 13:19:33 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/tags/author/</guid>
+    <guid>https://mtlmacedo.com/tags/author/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

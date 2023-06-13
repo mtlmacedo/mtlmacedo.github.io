@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>about - Tag - Mtlmacedo.com</title>
-        <link>https://mtlmacedo.github.io/tags/about/</link>
+        <link>https://mtlmacedo.com/tags/about/</link>
         <description>about - Tag - Mtlmacedo.com</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
-            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 13:19:33 -0300</lastBuildDate><atom:link href="https://mtlmacedo.github.io/tags/about/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 13:19:33 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/tags/about/" rel="self" type="application/rss+xml" /><item>
     <title>About</title>
-    <link>https://mtlmacedo.github.io/page/about/</link>
+    <link>https://mtlmacedo.com/page/about/</link>
     <pubDate>Tue, 13 Jun 2023 13:19:33 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.github.io/page/about/</guid>
+    <guid>https://mtlmacedo.com/page/about/</guid>
     <description><![CDATA[Hey there !]]></description>
 </item>
 </channel>
