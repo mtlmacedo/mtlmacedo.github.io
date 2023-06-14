@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Mtlmacedo.com</title>
-        <link>https://mtlmacedo.com/</link>
-        <description>This is my cool site</description>
+        <title>Go - Category - Mtlmacedo.com</title>
+        <link>https://mtlmacedo.com/categories/go/</link>
+        <description>Go - Category - Mtlmacedo.com</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
-            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate>
-            <atom:link href="https://mtlmacedo.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/categories/go/" rel="self" type="application/rss+xml" /><item>
     <title>Go Programming 101: A Beginner&#39;s Guide</title>
     <link>https://mtlmacedo.com/posts/gobasics/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
