@@ -5,19 +5,11 @@
         <description>Tags - Tag - Mtlmacedo.com</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
             <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>basics</title>
-    <link>https://mtlmacedo.com/tags/basics/</link>
+    <title>array</title>
+    <link>https://mtlmacedo.com/tags/array/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/basics/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>concurrency</title>
-    <link>https://mtlmacedo.com/tags/concurrency/</link>
-    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/concurrency/</guid>
+    <guid>https://mtlmacedo.com/tags/array/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -37,19 +29,43 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>installation</title>
-    <link>https://mtlmacedo.com/tags/installation/</link>
+    <title>list</title>
+    <link>https://mtlmacedo.com/tags/list/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/installation/</guid>
+    <guid>https://mtlmacedo.com/tags/list/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>setup</title>
-    <link>https://mtlmacedo.com/tags/setup/</link>
+    <title>lists</title>
+    <link>https://mtlmacedo.com/tags/lists/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/setup/</guid>
+    <guid>https://mtlmacedo.com/tags/lists/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>maps</title>
+    <link>https://mtlmacedo.com/tags/maps/</link>
+    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/maps/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>slice</title>
+    <link>https://mtlmacedo.com/tags/slice/</link>
+    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/slice/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>slices</title>
+    <link>https://mtlmacedo.com/tags/slices/</link>
+    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/slices/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -61,27 +77,11 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>varaibles</title>
-    <link>https://mtlmacedo.com/tags/varaibles/</link>
-    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/varaibles/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
     <title>about</title>
     <link>https://mtlmacedo.com/tags/about/</link>
     <pubDate>Tue, 13 Jun 2023 13:19:33 -0300</pubDate>
     <author>Matheus Macedo</author>
     <guid>https://mtlmacedo.com/tags/about/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>author</title>
-    <link>https://mtlmacedo.com/tags/author/</link>
-    <pubDate>Tue, 13 Jun 2023 13:19:33 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/author/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

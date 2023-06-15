@@ -4,10 +4,10 @@
         <link>https://mtlmacedo.com/tags/basics/</link>
         <description>basics - Tag - Mtlmacedo.com</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
-            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/tags/basics/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Sun, 11 Jun 2023 15:03:15 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/tags/basics/" rel="self" type="application/rss+xml" /><item>
     <title>Go Programming 101: A Beginner&#39;s Guide</title>
     <link>https://mtlmacedo.com/posts/gobasics/</link>
-    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
+    <pubDate>Sun, 11 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
     <guid>https://mtlmacedo.com/posts/gobasics/</guid>
     <description><![CDATA[Introduction Welcome to the exciting world of Go programming! In this blog post, we will explore why Go has become increasingly popular and discuss its unique features and benefits. Whether you&rsquo;re a beginner looking to dive into programming or an experienced developer curious about Go, this guide will provide you with a solid foundation to start your Go journey.
