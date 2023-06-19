@@ -6,15 +6,6 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
             <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:03:15 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/tags/slices/" rel="self" type="application/rss+xml" /><item>
     <title>Go Programming 101: Arrays, Slices and Maps</title>
-    <link>https://mtlmacedo.com/blog/lists/</link>
-    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/blog/lists/</guid>
-    <description><![CDATA[Go lang: Arrays, Slices, and Maps Explained Welcome to another exciting installment of our GO 101 series! Today we&rsquo;ll delve into arrays, slices, and maps. These data structures are fundamental in Go and mastering them will greatly enhance your development skills. So let&rsquo;s dive right in!
-Arrays In Go, an array is a fixed-size sequence of elements of the same type. They provide a way to store and access multiple values under a single name.]]></description>
-</item>
-<item>
-    <title>Go Programming 101: Arrays, Slices and Maps</title>
     <link>https://mtlmacedo.com/posts/lists/</link>
     <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
     <author>Matheus Macedo</author>
