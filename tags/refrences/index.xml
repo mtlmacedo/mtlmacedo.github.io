@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>refrences - Tag - Mtlmacedo.com</title>
+        <link>https://mtlmacedo.com/tags/refrences/</link>
+        <description>refrences - Tag - Mtlmacedo.com</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Mon, 19 Jun 2023 13:45:56 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/tags/refrences/" rel="self" type="application/rss+xml" /><item>
+    <title>Poiters: Understanding Value vs. Reference in Go</title>
+    <link>https://mtlmacedo.com/posts/poiters/</link>
+    <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/posts/poiters/</guid>
+    <description><![CDATA[Continuing our Go programming 101 series:
+Today we&rsquo;re going to discuss a fascinating topic that is relevant to almost all programming languages: value vs. reference (also known as pointers).
+First and foremost, let&rsquo;s remember that every variable we create, regardless of its type, as well as arrays, slices, and maps, are allocated in memory.
+Another crucial point to bear in mind is that function parameters are also variables.
+To help us understand this concept better, let&rsquo;s create a function with two parameters.]]></description>
+</item>
+</channel>
+</rss>
