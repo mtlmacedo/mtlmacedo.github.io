@@ -4,10 +4,20 @@
         <link>https://mtlmacedo.com/</link>
         <description>Go, .net, programing and everything related to tech</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
-            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Mon, 19 Jun 2023 13:45:56 -0300</lastBuildDate>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 20 Jun 2023 10:50:36 -0300</lastBuildDate>
             <atom:link href="https://mtlmacedo.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Poiters: Understanding Value vs. Reference in Go</title>
+    <title>C# 12 - Collection Literals</title>
+    <link>https://mtlmacedo.com/posts/csharp12collections/</link>
+    <pubDate>Tue, 20 Jun 2023 10:50:36 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/posts/csharp12collections/</guid>
+    <description><![CDATA[C# 12 New Feature: Collection Literals
+Are you ready for a new and exciting feature in the next iteration of C#? Brace yourself for &ldquo;Collection Literals,&rdquo; designed to simplify the way we work with collections. If you&rsquo;re tired of cumbersome syntax or intricate steps for handling collections, this new feature is here to make your coding life a breeze!
+So, what exactly are collection literals? Well, they introduce a concise and straightforward syntax for creating common collection values.]]></description>
+</item>
+<item>
+    <title>Pointers: Understanding Value vs. Reference in Go</title>
     <link>https://mtlmacedo.com/posts/poiters/</link>
     <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
     <author>Matheus Macedo</author>

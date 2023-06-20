@@ -4,7 +4,71 @@
         <link>https://mtlmacedo.com/tags/</link>
         <description>Tags - Tag - Mtlmacedo.com</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mtlmacedo@gmail.com (Matheus Macedo)</managingEditor>
-            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Mon, 19 Jun 2023 13:45:56 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>mtlmacedo@gmail.com (Matheus Macedo)</webMaster><lastBuildDate>Tue, 20 Jun 2023 10:50:36 -0300</lastBuildDate><atom:link href="https://mtlmacedo.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>c#</title>
+    <link>https://mtlmacedo.com/tags/c#/</link>
+    <pubDate>Tue, 20 Jun 2023 10:50:36 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/c#/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>collections</title>
+    <link>https://mtlmacedo.com/tags/collections/</link>
+    <pubDate>Tue, 20 Jun 2023 10:50:36 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/collections/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>collectionslitrals</title>
+    <link>https://mtlmacedo.com/tags/collectionslitrals/</link>
+    <pubDate>Tue, 20 Jun 2023 10:50:36 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/collectionslitrals/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>csharp</title>
+    <link>https://mtlmacedo.com/tags/csharp/</link>
+    <pubDate>Tue, 20 Jun 2023 10:50:36 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/csharp/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>feature</title>
+    <link>https://mtlmacedo.com/tags/feature/</link>
+    <pubDate>Tue, 20 Jun 2023 10:50:36 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/feature/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>new</title>
+    <link>https://mtlmacedo.com/tags/new/</link>
+    <pubDate>Tue, 20 Jun 2023 10:50:36 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/new/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>news</title>
+    <link>https://mtlmacedo.com/tags/news/</link>
+    <pubDate>Tue, 20 Jun 2023 10:50:36 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/news/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>tutorial</title>
+    <link>https://mtlmacedo.com/tags/tutorial/</link>
+    <pubDate>Tue, 20 Jun 2023 10:50:36 -0300</pubDate>
+    <author>Matheus Macedo</author>
+    <guid>https://mtlmacedo.com/tags/tutorial/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>basics</title>
     <link>https://mtlmacedo.com/tags/basics/</link>
     <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
@@ -18,70 +82,6 @@
     <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
     <author>Matheus Macedo</author>
     <guid>https://mtlmacedo.com/tags/go/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>golang</title>
-    <link>https://mtlmacedo.com/tags/golang/</link>
-    <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/golang/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>pointers</title>
-    <link>https://mtlmacedo.com/tags/pointers/</link>
-    <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/pointers/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>refrences</title>
-    <link>https://mtlmacedo.com/tags/refrences/</link>
-    <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/refrences/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>tutorial</title>
-    <link>https://mtlmacedo.com/tags/tutorial/</link>
-    <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/tutorial/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>value</title>
-    <link>https://mtlmacedo.com/tags/value/</link>
-    <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/value/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>varaibles</title>
-    <link>https://mtlmacedo.com/tags/varaibles/</link>
-    <pubDate>Mon, 19 Jun 2023 13:45:56 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/varaibles/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>array</title>
-    <link>https://mtlmacedo.com/tags/array/</link>
-    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/array/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>list</title>
-    <link>https://mtlmacedo.com/tags/list/</link>
-    <pubDate>Tue, 13 Jun 2023 15:03:15 -0300</pubDate>
-    <author>Matheus Macedo</author>
-    <guid>https://mtlmacedo.com/tags/list/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
